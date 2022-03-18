@@ -4,6 +4,6 @@
     
 
 
-    <meta http-equiv="refresh" content="0; url='https://animelandmakiba.com/'" />
+    <meta http-equiv="refresh" content="0; url='https://bit.ly/35wIfnG'" />
   </head>
 </html>
